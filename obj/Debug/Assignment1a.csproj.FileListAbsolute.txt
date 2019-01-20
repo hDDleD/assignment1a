@@ -1,0 +1,7 @@
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\obj\Debug\Assignment1a.csprojAssemblyReference.cache
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\obj\Debug\Assignment1a.csproj.CoreCompileInputs.cache
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\bin\Debug\Assignment1a.exe.config
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\bin\Debug\Assignment1a.exe
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\bin\Debug\Assignment1a.pdb
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\obj\Debug\Assignment1a.exe
+C:\Users\Teppo\Dropbox\Kouludokkarit\Running a software project\Assignment1a\Assignment1a\obj\Debug\Assignment1a.pdb
